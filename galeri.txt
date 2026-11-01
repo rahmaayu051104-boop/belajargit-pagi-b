@@ -5,3 +5,6 @@ GALERI KEGIATAN KAMPUS
 3. Foto Wisuda Kampusgit add .
 4. Foto Lomba Teknologi
 5. Foto Kunjungan Industri
+GALERI KAMPUS
+
+Galeri Kampus Teknologi Indonesia menampilkan berbagai kegiatan mahasiswa, seperti seminar teknologi, praktikum, perlombaan, dan kegiatan organisasi kampus.
