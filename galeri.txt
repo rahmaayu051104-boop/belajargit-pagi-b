@@ -2,4 +2,6 @@ GALERI KEGIATAN KAMPUS
 
 1. Foto Seminar Teknologi
 2. Foto Kegiatan Mahasiswa
-3. Foto Wisuda Kampus
+3. Foto Wisuda Kampusgit add .
+4. Foto Lomba Teknologi
+5. Foto Kunjungan Industri
