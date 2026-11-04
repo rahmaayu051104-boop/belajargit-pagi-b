@@ -1,3 +1,4 @@
 Fasilitas Kampus:
 1. Perpustakaan
 2. Laboratorium Komputer
+3. Lapangan Olahraga
