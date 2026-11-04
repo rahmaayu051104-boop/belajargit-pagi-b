@@ -1,0 +1,4 @@
+Jenis Biaya Kampus:
+1. Biaya Pendaftaran: Rp500.000
+2. Biaya Semester: Rp2.500.000
+3. Biaya Praktikum: Rp300.000
