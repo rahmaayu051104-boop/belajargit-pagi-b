@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Slogan: Tumbuh Bersama Teknologi.
+=======
+Slogan: Belajar dan Berkarya.
+>>>>>>> fitur-slogan
